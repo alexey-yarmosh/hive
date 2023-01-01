@@ -15,11 +15,11 @@
     "konva": "4.0.18"
   },
   "devDependencies": {
-    "copy-webpack-plugin": "5.0.5",
-    "css-loader": "3.2.0",
-    "file-loader": "4.2.0",
-    "webpack": "4.41.2",
-    "webpack-cli": "3.3.10",
+    "copy-webpack-plugin": "11.0.0",
+    "css-loader": "6.7.3",
+    "file-loader": "6.2.0",
+    "webpack": "5.75.0",
+    "webpack-cli": "5.0.1",
     "webpack-dev-server": "3.9.0"
   }
 }
